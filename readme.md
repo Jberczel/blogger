@@ -1,4 +1,4 @@
-## Web Dev 101 >> Project:Rails >> Build a Blog
+## Web Dev 101 > Project: Rails > Build a Blog
 
 My implementation of the Blogger tutorial from [jumpstartlabs](http://tutorials.jumpstartlab.com/projects/blogger.html#blogger-2).
 
